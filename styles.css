@@ -1,24 +1,16 @@
 /*  your css code here. If applicable */
-body{
-	display:flex;
+th{
+	height:40px;
+	width:200px;
+	border:2px solid gray;
+	border-radius:5px;
+	font-size:25px
 }
 
-.box{
-	height:50px;
+td{
+	height:40px;
 	width:200px;
-	border:1px solid gray;
+	border:2px solid gray;
 	border-radius:5px;
-	font-size:32px;
-	padding-left:5px;
-}
-
-h1{
-	height:50px;
-	width:200px;
-	border:1px solid gray;
-	border-radius:5px;
-	font-size:30px;
-	text-align:center;
-	padding:5px;
-	margin:2px;
+	font-size:25px;
 }
