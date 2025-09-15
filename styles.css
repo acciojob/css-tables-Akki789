@@ -4,7 +4,8 @@ th{
 	width:200px;
 	border:2px solid gray;
 	border-radius:5px;
-	font-size:25px
+	font-size:25px;
+	padding:8px;
 }
 
 td{
@@ -13,4 +14,9 @@ td{
 	border:2px solid gray;
 	border-radius:5px;
 	font-size:25px;
+	padding:8px;
+}
+
+tr:nth-child(even){
+	background-color:gray;
 }
